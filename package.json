@@ -1,0 +1,23 @@
+{
+  "name": "raul-ortiz",
+  "version": "1.0.0",
+  "description": "estoy en el repositorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reog3/raul-ortiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reog3/raul-ortiz/issues"
+  },
+  "homepage": "https://github.com/reog3/raul-ortiz#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
